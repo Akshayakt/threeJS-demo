@@ -1,1 +1,1 @@
-# threeJS-demo
+An example of three.js
